@@ -1,3 +1,11 @@
+Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.Ai
+
+### Mentee Info
+* Name    : Iffo Elsande Pratama Putra
+* Program : IBM Academy Advance AI
+
+
+
 Author : [Svitlana Kramar](www.linkedin.com/in/svitlana-kramar)
 
 
