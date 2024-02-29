@@ -1,12 +1,12 @@
-Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.Ai
+# Natural-Language-Processing-with-Hugging-Face-Transformers
+Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Natural Language Processing with Hugging Face Transformers from CognitiveClass.Ai
 
 ### Mentee Info
 * Name    : Iffo Elsande Pratama Putra
 * Program : IBM Academy Advance AI
 
 
-
-Author : [Svitlana Kramar](www.linkedin.com/in/svitlana-kramar)
+### Author : [Svitlana Kramar](www.linkedin.com/in/svitlana-kramar)
 
 
 |Date (YYYY-MM-DD)|Version|Changed By|Change Description|
